@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+langchain
+langchain-core
+langchain-community
+python-dotenv
+supabase-py # for interacting with Supabase from backend
+psycopg2-binary # for PostgreSQL connectivity
+geopandas # if using spatial data

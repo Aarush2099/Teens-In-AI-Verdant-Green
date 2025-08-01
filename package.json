@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "@types/react": "^19.1.9",
+    "@types/react-dom": "^19.1.7"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide-react": "^0.535.0",
+    "react-leaflet": "^5.0.0",
+    "shadcn-ui": "^0.9.5"
+  }
+}
